@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "webpack --mode=development",
     "build": "webpack --mode=production",
-    "lint": "eslint 'src/**/*.{js,ts,tsx}'",
+    "lint": "tsc --noEmit && eslint 'src/**/*.{js,ts,tsx}'",
     "docz:dev": "docz dev",
     "docz:build": "docz build",
     "docz:serve": "docz build && docz serve"
