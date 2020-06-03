@@ -1,0 +1,1 @@
+{"src/MaskInput.tsx":{"hash":"5ab9d4d41f503ea4e34433c3e96f6dcf","props":[{"description":"","displayName":"MaskInput","methods":[],"props":{"mask":{"defaultValue":null,"description":"","name":"mask","parent":{"fileName":"src/MaskInput.tsx","name":"MaskInputProps"},"required":true,"type":{"name":"string"}}}}]}}
