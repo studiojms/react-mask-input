@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e293b067-528a-484a-b230-72debd15ade0/deploy-status)](https://app.netlify.com/sites/react-awesome-mask-input/deploys)
+
 # react-mask-input
 
 An input component build to be used with custom masks
