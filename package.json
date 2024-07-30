@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-mask-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An input component built to be used with custom masks",
   "main": "dist/MaskInput.js",
   "types": "dist/MaskInput.d.ts",
