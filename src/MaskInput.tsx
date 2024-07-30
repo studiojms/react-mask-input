@@ -3,7 +3,7 @@ import React from 'react';
 import { unMask, mask as doMask } from './maskUtils';
 
 interface MaskInputProps extends React.InputHTMLAttributes<HTMLInputElement> {
-  mask: string;
+  mask: string | string[];
 }
 
 function MaskInput({ mask, onChange, ...props }: MaskInputProps): JSX.Element {
